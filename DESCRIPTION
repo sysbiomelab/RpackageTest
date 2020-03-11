@@ -1,0 +1,12 @@
+Package: RpackageTest
+Type: Package
+Title: RPackageTest
+Version: 0.1.0
+Date: 2020-03-11
+Author: Sunjae Lee
+Maintainer: Sunjae Lee <sunjae.lee@kcl.ac.uk>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-2.0
+Encoding: UTF-8
+LazyData: true
